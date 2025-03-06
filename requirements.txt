@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+google-generativeai
+openai==0.28
+IPython
